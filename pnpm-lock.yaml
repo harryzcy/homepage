@@ -101,10 +101,6 @@ importers:
       xml-js:
         specifier: ^1.6.11
         version: 1.6.11
-    optionalDependencies:
-      osx-temperature-sensor:
-        specifier: ^1.0.8
-        version: 1.0.8
     devDependencies:
       '@tailwindcss/forms':
         specifier: ^0.5.8
@@ -154,6 +150,10 @@ importers:
       typescript:
         specifier: ^5.4.5
         version: 5.5.4
+    optionalDependencies:
+      osx-temperature-sensor:
+        specifier: ^1.0.8
+        version: 1.0.8
 
 packages:
 
